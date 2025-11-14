@@ -1,6 +1,5 @@
 {
   "name": "agentx-bridge",
   "version": "1.0.0",
-  "description": "Bridge for AgentX chatbot",
   "type": "module"
 }
